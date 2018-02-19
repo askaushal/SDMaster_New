@@ -17,6 +17,7 @@
     },
     "SDMaster": {
       "commandName": "Project",
+      "workingDirectory": "D:\\MyDen\\Projects\\SDMaster\\src\\SDMaster",
       "launchBrowser": true,
       "launchUrl": "http://localhost:5000",
       "environmentVariables": {
